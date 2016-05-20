@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+  "frameworks": {
+    "net45": {
+      "wrappedProject": "../../EdgeLibrary/EdgeLibrary.csproj",
+      "bin": {
+        "assembly": "../../EdgeLibrary/obj/{configuration}/EdgeLibrary.dll",
+        "pdb": "../../EdgeLibrary/obj/{configuration}/EdgeLibrary.pdb"
+      },
+      "dependencies": {
+        "Edge.js": "5.9.1"
+      }
+    }
+  }
+}

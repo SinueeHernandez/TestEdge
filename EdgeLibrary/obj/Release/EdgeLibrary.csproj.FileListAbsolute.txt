@@ -1,0 +1,12 @@
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\edge\double_edge.js
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\edge\edge.js
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\edge\x64\node.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\edge\x86\node.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\edge\x64\edge_nativeclr.node
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\edge\x86\edge_nativeclr.node
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\EdgeLibrary.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\EdgeLibrary.pdb
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\bin\Release\EdgeJs.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\obj\Release\EdgeLibrary.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\obj\Release\EdgeLibrary.pdb
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\EdgeLibrary\obj\Release\EdgeLibrary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\edge\double_edge.js
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\edge\edge.js
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\edge\x64\node.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\edge\x86\node.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\edge\x64\edge_nativeclr.node
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\edge\x86\edge_nativeclr.node
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\ConsoleEdge.exe.config
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\ConsoleEdge.exe
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\ConsoleEdge.pdb
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\EdgeJs.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\EdgeLibrary.dll
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\EdgeLibrary.pdb
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\obj\Debug\ConsoleEdge.exe
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\obj\Debug\ConsoleEdge.pdb
