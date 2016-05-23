@@ -17,7 +17,11 @@ namespace EdgeLibrary
                 callback(null, 'Node.js welcomes ' + data);
             }
         ");
-            return func(mensaje).ToString();
+
+            var t = func(mensaje);
+
+            var ret = t.Result.ToString();
+            return ret;
         }
 
         public static async void Start()

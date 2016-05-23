@@ -12,3 +12,4 @@ C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\EdgeL
 C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\bin\Debug\EdgeLibrary.pdb
 C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\obj\Debug\ConsoleEdge.exe
 C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\obj\Debug\ConsoleEdge.pdb
+C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\ConsoleEdge\obj\Debug\ConsoleEdge.csprojResolveAssemblyReference.cache

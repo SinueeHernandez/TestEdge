@@ -1,0 +1,5 @@
+C:\GitHub\edge-ps\lib\edge-ps.dll
+C:\GitHub\edge-ps\lib\edge-ps.pdb
+C:\GitHub\edge-ps\src\edge-ps\edge-ps\obj\Debug\edge-ps.csprojResolveAssemblyReference.cache
+C:\GitHub\edge-ps\src\edge-ps\edge-ps\obj\Debug\edge-ps.dll
+C:\GitHub\edge-ps\src\edge-ps\edge-ps\obj\Debug\edge-ps.pdb

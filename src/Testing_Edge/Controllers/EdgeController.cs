@@ -22,10 +22,10 @@ namespace Testing_Edge.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public string Get(string id)
+        public async  Task<string> Get(string id)
         {
-            var ret = _edgeService.HelloNode(id);
-            return ret;
+            var ret =  _edgeService.HelloNode(id);
+            return ret.ToString();
         }
 
         // POST api/values

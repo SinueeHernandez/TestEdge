@@ -1,0 +1,54 @@
+{
+  "name": "edge-ps",
+  "author": {
+    "name": "Doug Finke",
+    "email": "finked@hotmail.com",
+    "url": "http://dougfinke.com"
+  },
+  "version": "0.1.0-pre",
+  "description": "edge-ps: run PowerShell and node.js code in-process with edge-ps.js",
+  "tags": [
+    "powershell",
+    "owin",
+    "edge",
+    "clr",
+    "c#",
+    "managed",
+    ".net"
+  ],
+  "main": "./lib/edge-ps.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/dfinke/edge-ps",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dfinke/edge-ps.git"
+  },
+  "bugs": {
+    "url": "http://github.com/dfinke/edge-ps/issues"
+  },
+  "readme": "edge-ps\r\n=======\r\n\r\nThis is a PowerShell compiler for edge.js.\r\n\r\nSee [edge.js overview](http://tjanczuk.github.com/edge) and [edge.js on GitHub](https://github.com/tjanczuk/edge) for more information. ",
+  "readmeFilename": "README.md",
+  "_id": "edge-ps@0.1.0-pre",
+  "dist": {
+    "shasum": "bd35dd9840912a2912e442cb067d3fe79ced6620",
+    "tarball": "https://registry.npmjs.org/edge-ps/-/edge-ps-0.1.0-pre.tgz"
+  },
+  "_npmVersion": "1.1.69",
+  "_npmUser": {
+    "name": "dfinke",
+    "email": "finked@hotmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "dfinke",
+      "email": "finked@hotmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "bd35dd9840912a2912e442cb067d3fe79ced6620",
+  "_resolved": "https://registry.npmjs.org/edge-ps/-/edge-ps-0.1.0-pre.tgz",
+  "_from": "edge-ps@latest"
+}

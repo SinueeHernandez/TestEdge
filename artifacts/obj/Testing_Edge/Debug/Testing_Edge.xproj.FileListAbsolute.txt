@@ -1,7 +1,0 @@
-C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\artifacts\bin\Testing_Edge\edge\double_edge.js
-C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\artifacts\bin\Testing_Edge\edge\edge.js
-C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\artifacts\bin\Testing_Edge\edge\x64\node.dll
-C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\artifacts\bin\Testing_Edge\edge\x86\node.dll
-C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\artifacts\bin\Testing_Edge\edge\x64\edge_nativeclr.node
-C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\artifacts\bin\Testing_Edge\edge\x86\edge_nativeclr.node
-C:\Users\esteban.hernandez\Source\Repos\Testing_Edge\artifacts\obj\Testing_Edge\Debug\Testing_Edge.xprojResolveAssemblyReference.cache
