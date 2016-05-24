@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEdge", "ConsoleEdge\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeLibrary", "EdgeLibrary\EdgeLibrary.csproj", "{925F08A6-6202-4E14-A5DF-E693BCA8D7FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_Jurassic", "Testing_Jurassic\Testing_Jurassic.csproj", "{56D42DC7-3550-4280-9C16-18C568C34B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_CSharpCodeAtRunTime", "Test_CSharpCodeAtRunTime\Test_CSharpCodeAtRunTime.csproj", "{6A9C475A-BA63-4683-951B-6E6C866DD589}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,11 +38,21 @@ Global
 		{925F08A6-6202-4E14-A5DF-E693BCA8D7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{925F08A6-6202-4E14-A5DF-E693BCA8D7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{925F08A6-6202-4E14-A5DF-E693BCA8D7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D42DC7-3550-4280-9C16-18C568C34B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D42DC7-3550-4280-9C16-18C568C34B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D42DC7-3550-4280-9C16-18C568C34B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D42DC7-3550-4280-9C16-18C568C34B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9C475A-BA63-4683-951B-6E6C866DD589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9C475A-BA63-4683-951B-6E6C866DD589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9C475A-BA63-4683-951B-6E6C866DD589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9C475A-BA63-4683-951B-6E6C866DD589}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{684877B8-012C-44E9-9C67-916B83CA309B} = {3061D970-6A5F-4925-B6B9-2DE8A9285BC7}
+		{56D42DC7-3550-4280-9C16-18C568C34B0C} = {3061D970-6A5F-4925-B6B9-2DE8A9285BC7}
+		{6A9C475A-BA63-4683-951B-6E6C866DD589} = {3061D970-6A5F-4925-B6B9-2DE8A9285BC7}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,56 @@
+﻿@model Test_CSharpCodeAtRunTime.Models.CodeAtRunTime
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm("Run", "CodeAtRunTime", FormMethod.Post, new { @class = "form-horizontal", role = "form" , ValidateRequestMode.Disabled }))
+{
+<div>
+    <h4>CodeAtRunTime</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.functionName)
+        </dt>
+        
+        <dd>
+            @Html.EditorFor(model => model.functionName)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.parameters)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.parameters)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.source)
+        </dt>
+
+        <dd>
+            @Html.TextAreaFor(model => model.source,new { cols = 100, rows = 20 })
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.result)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.result)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Run" class="btn btn-default" />
+        </div>
+    </div>
+    
+</p>
+}

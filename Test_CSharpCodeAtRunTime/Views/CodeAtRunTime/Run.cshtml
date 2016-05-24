@@ -1,0 +1,50 @@
+﻿@model Test_CSharpCodeAtRunTime.Models.CodeAtRunTime
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<div>
+    <h4>CodeAtRunTime</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.functionName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.functionName)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.parameters)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.parameters)
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.source)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.source, new { cols = 100, rows = 20 })
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.result)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.result)
+        </dd>
+
+    </dl>
+</div>
+<p>
+
+    @Html.ActionLink("Back", "Index", Model)
+</p>
